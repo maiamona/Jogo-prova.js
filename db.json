@@ -1,0 +1,88 @@
+{
+  "posts":  [
+    {
+        "question": "PHP foi desenvolvido para qual fim?",
+        "answers": [
+            {
+                "answer": "back-end",
+                "correct": true
+            },
+            {
+                "answer": "front-end",
+                "correct": false
+            },
+            {
+                "answer": "Sistema operacional",
+                "correct": false
+            },
+            {
+                "answer": "Banco de dados",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Uma forma de declarar variavel em JavaScript:",
+        "answers": [
+            {
+                "answer": "$var",
+                "correct": false
+            },
+            {
+                "answer": "var",
+                "correct": true
+            },
+            {
+                "answer": "@var",
+                "correct": false
+            },
+            {
+                "answer": "#let",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o selector de id no CSS?",
+        "answers": [
+            {
+                "answer": "#",
+                "correct": true
+            },
+            {
+                "answer": ".",
+                "correct": false
+            },
+            {
+                "answer": "@",
+                "correct": false
+            },
+            {
+                "answer": "#/",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O selector <H> é utilizado para:",
+        "answers": [
+            {
+                "answer": "Adicional um Titulo",
+                "correct": true
+            },
+            {
+                "answer": "Adicional um link",
+                "correct": false
+            },
+            {
+                "answer": "Adicional um alert",
+                "correct": false
+            },
+            {
+                "answer": "Adicional um Paragrafo",
+                "correct": false
+            }
+        ]
+    }
+]
+}
