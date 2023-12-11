@@ -90,6 +90,10 @@ body{
   font-weight: bold;  
 }
 
+#answers-box{
+    width: 100%;
+}
+
 #answers-box button{
    display: flex;
    align-items: center; 
